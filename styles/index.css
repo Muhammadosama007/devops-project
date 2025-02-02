@@ -116,12 +116,3 @@ footer {
     padding: 20px;
 }
 
-.social-icons img {
-    width: 25px;
-    margin: 10px;
-    transition: 0.3s;
-}
-
-.social-icons img:hover {
-    transform: scale(1.1);
-}
