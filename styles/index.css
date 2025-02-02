@@ -46,14 +46,6 @@ nav {
 }
 
 /* Hero Section */
-.hero {
-    height: 80vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    color: white;
-}
 
 .hero-content {
     background: rgba(0, 0, 0, 0.6);
